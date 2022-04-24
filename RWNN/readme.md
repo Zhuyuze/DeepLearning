@@ -1,7 +1,7 @@
 ## Random Wired Neural Network
 
-### ×¢Òâ:
+### æ³¨æ„:
 
-1. »·¾³: python 3.7; pytorch 1.1.0; jupyter notebook
+1. Environment: python 3.9; pytorch 1.11.0; jupyter notebook
 
-2. Êı¾İ¼¯: CIFAR10, ·ÅÔÚ./dataÄ¿Â¼ÏÂ
+2. CIFAR10, æ”¾åœ¨./dataç›®å½•ä¸‹
