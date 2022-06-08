@@ -1,7 +1,9 @@
 ## Random Wired Neural Network
 
-### 注意:
+This is a Neural Network generator that generates randomly wired nn models based on parameters
+
+### Caution:
 
 1. Environment: python 3.9; pytorch 1.11.0; jupyter notebook
 
-2. CIFAR10, 放在./data目录下
+2. This directory does NOT contain train data, please download them (like CIFAR 10) and put them in ./data
